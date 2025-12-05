@@ -1,0 +1,10 @@
+admin@gmail.com
+12345678
+
+
+superadmin@gmail.com
+12345678
+
+manager@gmail.com
+
+editor@gmail.com
